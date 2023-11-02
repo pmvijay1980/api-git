@@ -1,2 +1,2 @@
 # api-git
-This file is for BDD Cucumber Framwwork setup
+This file is for Hybrid API Automation Project.
